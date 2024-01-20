@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\NATHY\POOCsharp\bin\Debug\net8.0\POOCsharp.exe
+C:\Users\User\Desktop\NATHY\POOCsharp\bin\Debug\net8.0\POOCsharp.deps.json
+C:\Users\User\Desktop\NATHY\POOCsharp\bin\Debug\net8.0\POOCsharp.runtimeconfig.json
+C:\Users\User\Desktop\NATHY\POOCsharp\bin\Debug\net8.0\POOCsharp.dll
+C:\Users\User\Desktop\NATHY\POOCsharp\bin\Debug\net8.0\POOCsharp.pdb
+C:\Users\User\Desktop\NATHY\POOCsharp\obj\Debug\net8.0\POOCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\NATHY\POOCsharp\obj\Debug\net8.0\POOCsharp.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\NATHY\POOCsharp\obj\Debug\net8.0\POOCsharp.AssemblyInfo.cs
+C:\Users\User\Desktop\NATHY\POOCsharp\obj\Debug\net8.0\POOCsharp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\NATHY\POOCsharp\obj\Debug\net8.0\POOCsharp.dll
+C:\Users\User\Desktop\NATHY\POOCsharp\obj\Debug\net8.0\refint\POOCsharp.dll
+C:\Users\User\Desktop\NATHY\POOCsharp\obj\Debug\net8.0\POOCsharp.pdb
+C:\Users\User\Desktop\NATHY\POOCsharp\obj\Debug\net8.0\POOCsharp.genruntimeconfig.cache
+C:\Users\User\Desktop\NATHY\POOCsharp\obj\Debug\net8.0\ref\POOCsharp.dll
